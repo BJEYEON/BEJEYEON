@@ -1,5 +1,5 @@
  # LINK
- ### 1차 개인 프로젝트 SCE <a href="https://github.com/BJEYEON/SCE_1stProject.git"><img src="https://img.shields.io/badge/SCE_1stProject]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 1차 개인 프로젝트 SCE <a href="https://github.com/BJEYEON/SCE_1stProject.git"><img src="https://img.shields.io/badge/SCE_차량시승시스템-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 2차 팀 프로젝트  XX <a href="#"><img src="https://img.shields.io/badge/팀프로젝트명-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="https://github.com/BJEYEON/WebPro.git"><img src="https://img.shields.io/badge/WebPro-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
